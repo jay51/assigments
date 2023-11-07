@@ -22,7 +22,7 @@ def multiply(num):
 
 
 def main():
-    num = int(input("Enter a whole numer, no decimals."))
+    num = int(input("Enter numer, no decimals."))
     multiply(num)
 
 main()

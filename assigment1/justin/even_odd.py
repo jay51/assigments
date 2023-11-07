@@ -8,9 +8,9 @@ Display a message to the user indicating whether the number is even or odd.
 
 def even_odd(num):
     if num % 2 == 0:
-        print(f"The number you've entered, {num} is even.")
+        print(f"number you've entered, {num} is even.")
     else:
-        print(f"The number you've entered, {num} is odd.")
+        print(f"number you've entered, {num} is odd.")
 
 
 def main():
